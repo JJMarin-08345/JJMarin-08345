@@ -16,16 +16,11 @@ cualquier aplicación web.
 He trabajado con bases de datos tales como: MongoDb, SQLServer2019 (versión gratuita) y MySQL. Tengo unos diplomados de Ciencias de Datos hechos en línea
 trabajando con MySQL
 
-Soy demasiado intuitivo y también puedo decir que aprendo rápido las cosas (supongo que es debido al gusto a la programación), soy responsable y honesto 
+Soy demasiado intuitivo y también puedo decir que aprendo muy rápido las cosas (supongo que es debido al gusto a la programación), soy responsable y honesto 
 para la mayoría de mis tareas, me gusta entregar todo a tiempo y con un buen funcionamiento. Mi punto fuerte es el Backend ya que me gusta realizar 
 mucho la lógica de las aplicaciones, y todo lo que es relacionado a funcionalidades
 
-Lenguajes que manejo:
-JAVA
-Python
-SQL
-JavaScript
-C#
+
 
 
 <!---
