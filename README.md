@@ -20,7 +20,7 @@ Soy demasiado intuitivo y también puedo decir que aprendo muy rápido las cosas
 para la mayoría de mis tareas, me gusta entregar todo a tiempo y con un buen funcionamiento. Mi punto fuerte es el Backend ya que me gusta realizar 
 mucho la lógica de las aplicaciones, y todo lo que es relacionado a funcionalidades
 
-
+Mi otro github: https://github.com/JJDevelop-404
 
 
 <!---
